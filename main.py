@@ -93,4 +93,5 @@ def cmd_start(m):
 
 
 if __name__ == '__main__':
+    print('Bot started')
     bot.polling(none_stop=True)
